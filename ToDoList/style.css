@@ -30,7 +30,7 @@ body{
   display: flex;
   align-items: center;
   margin-bottom: 20px;
-  text-shadow: 2px 5px rgba(0, 0, 0, 0.7);
+  text-shadow: 2px 15px rgba(0, 0, 0, 0.7);
   
 }
 .todo-app img {
